@@ -8,5 +8,5 @@ git clone htttps://github.com/Lucion/git
 
 *Solo para el equipo*
 ***No madificar el readme**
-1234456789123456789
+12344567891234567891
 123454678912345677529
